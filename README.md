@@ -38,7 +38,6 @@ MPP состоит из нескольких SMP, и несколько серв
 
 ---
 
-![Image alt](https://github.com/stepan-ch/gitlab-homework/blob/main/nat_dhcp_dns.jpg)
 ### Задание 2
 
 `В чём отличие сильно связанных и слабо связанных систем?`
